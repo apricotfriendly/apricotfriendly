@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm getting used to developer tools and the ecosystem, and I'm really interested in supporting tools in this space.
+
+Watch this space for more apricot friendly details...
+
 <!--
 **apricotfriendly/apricotfriendly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
